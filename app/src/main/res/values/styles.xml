@@ -13,4 +13,19 @@
         <item name="android:windowBackground">@drawable/splash_screen</item>
     </style>
 
+    <!--Button default-->
+    <style name="PrimaryColoredButton" parent="Widget.AppCompat.Button.Colored">
+        <item name="colorButtonNormal">@color/myPeach</item>
+        <item name="colorControlHighlight">@color/myRed</item>
+        <item name="android:textSize">20sp</item>
+        <item name="android:textColor">@color/myBlack</item>
+    </style>
+
+    <!--Button default-->
+    <style name="TextIndicator">
+        <item name="android:textAppearance">@style/TextAppearance.AppCompat.Large</item>
+        <item name="android:textColor">@color/myWhite</item>
+        <item name="android:textSize">20sp</item>
+    </style>
+
 </resources>

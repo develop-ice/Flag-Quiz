@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Flag Quiz</string>
+    <string name="play">Jugar</string>
+    <string name="welcome">Bienvenido al Quiz de Banderas</string>
+    <string name="correct">Bien:</string>
+    <string name="wrong">Mal:</string>
+    <string name="question">Pregunta:</string>
 </resources>
