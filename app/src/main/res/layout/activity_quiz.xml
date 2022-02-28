@@ -25,7 +25,7 @@
         android:layout_height="wrap_content"
         android:layout_marginEnd="8dp"
         android:layout_marginTop="16dp"
-        android:text="@string/correct"
+        android:text="@string/empty"
         app:layout_constraintEnd_toStartOf="@+id/tv_3"
         app:layout_constraintStart_toEndOf="@+id/tv_1"
         app:layout_constraintTop_toTopOf="parent" />
@@ -89,32 +89,44 @@
             android:id="@+id/btn_1"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
+            android:layout_marginBottom="4dp"
             android:layout_marginEnd="64dp"
             android:layout_marginStart="64dp"
+            android:layout_marginTop="4dp"
+            android:background="@color/myPeach"
             tools:text="Button" />
 
         <Button
             android:id="@+id/btn_2"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
+            android:layout_marginBottom="4dp"
             android:layout_marginEnd="64dp"
             android:layout_marginStart="64dp"
+            android:layout_marginTop="4dp"
+            android:background="@color/myPeach"
             tools:text="Button" />
 
         <Button
             android:id="@+id/btn_3"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
+            android:layout_marginBottom="4dp"
             android:layout_marginEnd="64dp"
             android:layout_marginStart="64dp"
+            android:layout_marginTop="4dp"
+            android:background="@color/myPeach"
             tools:text="Button" />
 
         <Button
             android:id="@+id/btn_4"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
+            android:layout_marginBottom="4dp"
             android:layout_marginEnd="64dp"
             android:layout_marginStart="64dp"
+            android:layout_marginTop="4dp"
+            android:background="@color/myPeach"
             tools:text="Button" />
 
     </LinearLayout>

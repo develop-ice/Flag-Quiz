@@ -4,7 +4,7 @@
     <string name="welcome">Bienvenido al Quiz de Banderas</string>
     <string name="correct">Bien:</string>
     <string name="wrong">Mal:</string>
-    <string name="question">Pregunta:</string>
+    <string name="question">Preguntas:</string>
     <string name="empty">Vacías:</string>
     <string name="success">Acierto:</string>
     <string name="quit">Salir</string>
