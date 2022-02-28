@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Flag Quiz</string>
+    <string name="play">Play</string>
+    <string name="welcome">Welcome to Flag Quiz</string>
+    <string name="correct">Correct:</string>
+    <string name="wrong">Wrong:</string>
+    <string name="question">Questions:</string>
+    <string name="empty">Empty:</string>
+    <string name="success">Success:</string>
+    <string name="quit">Quit</string>
+</resources>
