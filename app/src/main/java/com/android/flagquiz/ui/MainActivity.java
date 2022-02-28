@@ -22,4 +22,8 @@ public class MainActivity extends AppCompatActivity {
         startActivity(new Intent(MainActivity.this, QuizActivity.class));
         finish();
     }
+
+    public void anim(View view) {
+        startActivity(new Intent(MainActivity.this, AnimActivity.class));
+    }
 }

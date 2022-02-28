@@ -23,6 +23,7 @@
         </activity>
         <activity android:name=".ui.QuizActivity" />
         <activity android:name=".ui.ResultActivity"></activity>
+        <activity android:name=".ui.AnimActivity" />
     </application>
 
 </manifest>
