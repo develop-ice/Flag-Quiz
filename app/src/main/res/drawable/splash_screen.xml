@@ -6,13 +6,13 @@
 
     <!--Image-->
     <item
-        android:bottom="360dp"
-        android:left="20dp"
-        android:right="20dp"
-        android:top="360dp">
+        android:bottom="560dp"
+        android:left="250dp"
+        android:right="250dp"
+        android:top="560dp">
         <bitmap
             android:gravity="center"
-            android:src="@drawable/device" />
+            android:src="@drawable/cu" />
     </item>
 
 </layer-list>

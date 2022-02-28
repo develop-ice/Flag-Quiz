@@ -6,7 +6,7 @@
     android:background="@color/colorPrimary"
     android:gravity="center"
     android:orientation="vertical"
-    tools:context="com.android.flagquiz.ResultActivity">
+    tools:context="com.android.flagquiz.ui.ResultActivity">
 
     <TextView
         android:id="@+id/tv_correct"

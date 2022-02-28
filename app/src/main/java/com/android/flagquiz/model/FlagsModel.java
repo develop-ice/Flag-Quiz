@@ -1,4 +1,4 @@
-package com.android.flagquiz.db;
+package com.android.flagquiz.model;
 
 public class FlagsModel {
     private int flag_id;
